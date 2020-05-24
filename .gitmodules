@@ -1,0 +1,3 @@
+[submodule "site/themes/hugo-business-frontpage-theme"]
+	path = site/themes/hugo-business-frontpage-theme
+	url = https://github.com/cowboysmall-tools/hugo-business-frontpage-theme.git
